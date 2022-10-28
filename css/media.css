@@ -1,0 +1,724 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+
+     /* header starts */
+     .navbar .container {
+         justify-content: space-evenly !important;
+     }
+
+     .c_logo {
+         margin: 0;
+     }
+
+     .c_nav {
+         padding-bottom: 15px !important;
+     }
+
+     /* header ends */
+     /* herosection starts */
+
+
+     .hero {
+         margin-top: 101px;
+         padding: 0 0 36px 0;
+
+     }
+
+     .h_olay {
+         left: 74px;
+         top: 22px;
+         text-align: center;
+     }
+
+     .h_bg_img {
+         display: none;
+     }
+
+     .h_txt {
+         font-size: 3.81rem;
+
+     }
+
+     .h_p {
+         font-size: 2rem;
+     }
+
+     .h_t_img {
+         display: none;
+     }
+
+     .c_tes {
+         display: none;
+     }
+
+     .c_tes_row {
+         display: none;
+     }
+
+     /* herosection ends */
+
+     /* training starts */
+
+     .training {
+         padding-bottom: 30px;
+     }
+
+     .c_cont_t {
+         padding: 27px;
+     }
+
+     .t_item_h {
+         margin-bottom: 5px;
+     }
+
+     .t_card h5 {
+         font-size: 22px;
+     }
+
+     .t_card p {
+         font-size: 10px;
+     }
+
+     .c_btn {
+         width: 87px;
+         height: 31px;
+         font-size: 10px;
+     }
+
+     /* training ends */
+
+     /* join starts */
+     .join {
+         padding-bottom: 30px;
+     }
+
+
+     .j_img_box {
+         margin: 0!important;
+         width: 720px;
+     }
+
+     .j_txt_box {
+         margin-top: 15px;
+         width: 720px;
+     }
+
+     .j_txt_box p {
+         font-size: 12px;
+     }
+
+     /* join starts ends */
+
+
+     /* newsletter starts */
+     .newsletter{
+        padding-bottom: 30px;
+    }
+
+    .n_news_ch {
+     
+        top: 58%;
+        left: 50%;
+       
+    }
+     .news_txt {
+         font-size: 19px;
+     }
+
+     .news_txt2 {
+         font-size: 19px;
+     }
+
+     .news_p {
+        margin-top: 0!important;
+         font-size: 7px;
+     }
+
+     .c_form {
+         margin-top: 20.6px;
+     }
+
+     .c_input {
+        width: 204px;
+        height: 23.62px;      
+    }
+
+    .c_form_child {
+        left: 147px;
+        top: -16px;
+    }
+
+    .c_n_btn{       
+            width: 64px;
+            height: 24px;
+            font-size: 8px;
+        }
+    
+
+ /* newsletter ends */
+  /* yoga starts */
+  .yoga {
+    padding-bottom: 30px;
+}
+ .y_head {
+    margin-bottom: 38px;
+}
+.y_h1{
+    font-size: 48px;
+    margin-bottom: 7px!important;
+}
+    .y_img {
+        margin-bottom: 10px;
+    }
+    .y_text_h6 {
+        margin-bottom: 0px!important;
+     
+    }
+    .y_text_p {       
+        font-size: 14px;
+        line-height: 146%;       
+    }
+/* footer top starts */
+.footer_top {
+    padding: 45px 0 40px 0!important;   
+}
+
+ .f_m_logo{
+    text-align: center;
+ }
+ .f_logo{
+    font-size: 60px!important;
+ }
+ .f_so_ico {
+    text-align: center;
+}
+
+.f_sec_2{
+    margin-top: 24px;
+    text-align: center;
+}
+
+.f_text h6 {
+    font-size: 19px;
+}
+.f_text p {
+    font-size: 11px;
+}
+.f_sec_3{
+    
+    text-align: center;
+    margin-top: 24px;
+}
+
+.f_sec_3 ul li a {
+
+    font-size: 12px;
+    line-height: 0%;
+
+}
+ /* footer top ends */
+/* footer starts */
+footer {
+    padding-bottom: 32px!important;
+}
+/* footer ends */
+}
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+     /* herosection starts */
+     .hero {
+         padding: 50px 0 30px 0;
+     }
+
+     .h_olay {
+         left: 74px;
+         top: 22px;
+         text-align: center;
+     }
+
+     .h_txt {
+         text-align: center;
+
+         font-size: max(2.81rem, 5.81rem);
+
+     }
+
+     .c_tes {
+         display: none;
+     }
+
+     .c_tes_row {
+         display: none;
+     }
+
+     /* herosection ends */
+
+     /* training starts */
+     .training {
+         padding-bottom: 60px;
+     }
+
+     .t_item_h {
+         margin-top: 28px;
+         margin-bottom: 5px;
+     }
+
+     .t_card h5 {
+         font-size: 26px;
+     }
+
+     .t_card p {
+         font-size: 12px;
+     }
+
+     .c_btn {
+         width: 87px;
+         height: 31px;
+         font-size: 10px;
+     }
+
+     /* training ends */
+
+
+     /* join starts */
+
+     .join {
+         padding-bottom: 60px;
+     }
+
+     .j_img_box {
+         margin-top: 15px;
+         width: 720px;
+     }
+
+     .j_txt_box {
+         margin-top: 15px;
+         width: 720px;
+     }
+
+     /* join starts ends */
+
+     /* newsletter starts */
+     .newspaper{
+        padding-bottom: 44px;
+    }
+
+
+     .news_txt {
+         font-size: 30px;
+     }
+
+     .news_txt2 {
+         font-size: 30px;
+     }
+
+     .news_p {
+         font-size: 9px;
+     }
+
+     .c_form {
+         margin-top: 35.6px;
+     }
+
+     .c_input {
+         width: 341px;
+         height: 36.62px;
+         border-radius: 60px;
+     }
+
+     .c_form_child {
+
+         left: 267px;
+         top: -17px;
+     }
+
+     /* newsletter ends */
+
+
+ /* yoga starts */
+ .yoga {
+
+    padding-bottom: 30px;
+}
+ .y_head {
+    margin-bottom: 38px;
+}
+.y_h1{
+    font-size: 48px;
+}
+    .y_img {
+        margin-bottom: 10px;
+    }
+    .y_text_h6 {
+        margin-bottom: 0px!important;
+     
+    }
+    .y_text_p {       
+        font-size: 14px;
+        line-height: 146%;       
+    }
+
+ /* yoga ends */
+
+ /* footer top starts */
+ .footer_top {
+    padding: 45px 0 40px 0!important;   
+}
+
+ .f_m_logo{
+    text-align: center;
+ }
+ .f_logo{
+    font-size: 60px!important;
+ }
+ .f_so_ico {
+    text-align: center;
+}
+
+.f_sec_2{
+    margin-top: 24px;
+    text-align: center;
+}
+
+.f_text h6 {
+    font-size: 19px;
+}
+.f_text p {
+    font-size: 11px;
+}
+.f_sec_3{
+    
+    text-align: center;
+    margin-top: 24px;
+}
+
+.f_sec_3 ul li a {
+
+    font-size: 12px;
+    line-height: 0%;
+
+}
+ /* footer top ends */
+ /* footer starts */
+footer {
+    padding-bottom: 32px!important;
+}
+/* footer ends */
+}
+
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+     /* herosection starts */
+     .hero {
+         margin-top: 33px;
+         padding: 0 0 80px 0;
+
+     }
+
+     .h_olay {
+
+         top: 44px;
+         left: 81px;
+
+     }
+
+     .h_txt {
+         font-size: 6.81rem;
+     }
+
+     .h_p {
+         font-size: 3rem;
+     }
+
+     .h_bg_img {
+         margin-top: 0;
+     }
+
+     .t_img{
+        width: 80px;
+        height: 80px;
+    }
+    .t_p, .t_au {
+
+        font-size: 13px;
+    }
+    .c_tes_row {
+    
+        bottom: -68px;
+        left: 23px;
+    }
+
+     .c_tes {
+        Width: 343px;
+        Height: 107px;
+      
+    }
+
+     /* herosection ends */
+
+     /* training section starts */
+     .training {
+         padding-bottom: 60px;
+     }
+
+     .t_card h5 {
+         font-size: 24px;
+     }
+
+     .t_card p {
+         font-size: 12px;
+     }
+
+     .c_btn {
+         width: 79px;
+         height: 31px;
+         font-size: 10px;
+     }
+
+     /* training section ends */
+
+     /* join starts */
+
+     .join {
+         padding-bottom: 60px;
+     }
+.j_m{
+    margin-right: 0!important;
+}
+     .j_img_box {
+         margin-top: 0!important;       
+         margin-bottom: 0!important;
+     }
+
+     .j_txt_box {
+         margin-top: 15px;
+         width: 744px;
+     }
+
+     /* join starts ends */
+
+     /* newsletter starts */
+
+
+     .news_txt {
+         font-size: 40px;
+     }
+
+     .news_txt2 {
+         font-size: 40px;
+     }
+
+     .news_p {
+         font-size: 13px;
+     }
+
+     .c_form {
+         margin-top: 35.6px;
+     }
+
+     .c_input {
+         width: 341px;
+         height: 36.62px;
+         border-radius: 60px;
+     }
+
+     .c_form_child {
+
+         left: 267px;
+         top: -17px;
+     }
+
+     /* newsletter ends */
+
+     /* footer top starts */
+     .footer_top {
+        padding: 90px 0 80px 0;   
+    }
+    footer {
+        padding-bottom: 62px!important;
+    }
+     .f_m_logo{
+        text-align: center;
+     }
+     .f_so_ico {
+        text-align: center;
+    }
+    
+    .f_sec_2{
+        margin-top: 24px;
+        text-align: center;
+    }
+    .f_sec_3{
+        
+        text-align: center;
+        margin-top: 24px;
+    }
+     /* footer top ends */
+ }
+
+ /* footer top ends */
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+     /* herosection starts */
+     .hero {
+         margin-top: 23px;
+         padding: 0 0 136px 0;
+     }
+
+     .h_olay {
+         top: 70px;
+         left: 158px;
+     }
+
+     .h_txt {
+         font-size: 7.81rem;
+     }
+
+     .h_p {
+         font-size: min(2.56rem, 5.81rem);
+     }
+
+     .h_bg_img {
+         margin-top: 0;
+     }
+
+     .t_img{
+        width: 70px;
+        height: 70px;
+    }
+    .t_p, .t_au {
+
+        font-size: 12px;
+    }
+    .c_tes_row {
+    
+        bottom: 39px;
+        left: 23px;
+    }
+
+     .c_tes {
+        Width: 377px;
+        Height: 107px;
+      
+    }
+
+     /* herosection ends */
+
+     /* training section starts */
+     .t_card h5 {
+         font-size: 24px;
+     }
+
+     .t_card p {
+         font-size: 12px;
+     }
+
+     .c_btn {
+         width: 79px;
+         height: 31px;
+         font-size: 10px;
+     }
+
+     /* training section ends */
+
+     /* join stars */
+     .j_img_box {
+         width: 527px;
+     }
+     .j_m{
+        margin-right: 0;
+     }
+
+     .j_txt_box {
+         width: 417px;
+         padding: 39px;
+     }
+
+     .j_txt_box p {
+         font-size: 13px;
+     }
+
+     /* join stars ends */
+
+     /* newsletter starts */
+
+
+     .news_txt {
+         font-size: 40px;
+     }
+
+     .news_txt2 {
+         font-size: 40px;
+     }
+
+     .news_p {
+         font-size: 13px;
+     }
+
+     .c_form {
+         margin-top: 35.6px;
+     }
+
+     .c_input {
+         width: 341px;
+         height: 36.62px;
+         border-radius: 60px;
+     }
+
+     .c_form_child {
+
+         left: 267px;
+         top: -17px;
+     }
+
+     /* newsletter ends */
+
+     /* footer top starts */
+
+     .footer_top {
+        padding: 107px 0 112px 0;    
+    }
+     footer {
+       
+        padding-bottom: 53px;
+    }
+     /* footer top ends */
+ }
+
+
+ /* Large devices (desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* hero section */
+    .c_tes_row {
+       
+        bottom: -3px;
+        left: 32px;
+    }
+    /* hero section ends */
+
+    .j_img_box {
+        width: 658px;
+    }
+
+    .j_txt_box {
+        width: 466px;      
+ }
+ .j_txt_box p {
+    font-size: 15px;
+}
+}
+
+ /* Large devices (desktops, 1400px and up) */
+ @media (min-width: 1400px) and (max-width: 1699.98px) {
+    
+
+ }
+
+ /* Large devices (desktops, 1700px and up) */
+ @media (min-width: 1700px) and (max-width: 1999.98px) {}
+
+ /* Extra large devices (large desktops, 20000px and up) */
+ @media (min-width: 2000px) {}

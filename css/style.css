@@ -1,0 +1,492 @@
+/* common start */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    min-width: 100%;
+    font-family: 'Droid Serif', sans-serif;
+    font-size: 1.1875rem;
+    font-weight: 400;
+    color: #333333;
+    Line-height: 34.2px;
+}
+
+/* common end */
+
+header {}
+
+.c_nav {}
+
+.c_logo {
+    font-family: 'Imbue', serif;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 34px;
+    letter-spacing: 0em;
+
+    color: #12895E !important;
+}
+
+.c_logo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 42px;
+    letter-spacing: -0.03em;
+    color: #3A5D51;
+}
+
+.c_logo span {
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 42px;
+    letter-spacing: -0.03em;
+    color: #FF9548;
+
+}
+
+.c_btn {
+    width: 116px;
+    height: 40px;
+    background-color: #3DCA97;
+    text-transform: uppercase;
+    border-radius: 50px;
+    color: #FFFFFF;
+}
+
+/* hero section starts */
+.hero {
+    margin-top: 10px;
+    /* background: url(../images/bg.png) no-repeat center center fixed; */
+    /* background-size: contain; */
+    padding: 0 0 91px 0;
+    /* background-repeat: no-repeat; */
+    /* position: relative; */
+}
+
+.h_cont {
+    /* min-height: 70%; */
+    position: relative;
+
+}
+
+.h_olay {
+    top: 70px;
+    left: 226px;
+    position: absolute;
+}
+
+
+.h_txt {
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: max(13.81rem, 9.81rem);
+    /* line-height: 100px; */
+    color: #FF9548
+}
+
+.h_p {
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: min(4.56rem, 5.81rem);
+    /* line-height: 100px; */
+    /* identical to box height, or 72% */
+
+
+    color: #3A5E51;
+}
+
+.h_bg_img {
+    margin-top: 50px;
+    background: url(../images/teacherbg.png) no-repeat center center;
+    background-size: contain;
+
+}
+
+.h_t_img img {}
+
+.t_p,
+.t_au {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 150%;
+    /* or 24px */
+
+    letter-spacing: -0.01em;
+
+    color: #333333;
+}
+
+.t_txt {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.rating i {
+    font-size: 13px;
+
+}
+
+.c_tes {
+    Width: 450px;
+    Height: 137px;
+    margin: 0 0 0 15px;
+}
+
+.c_tes_row {
+    position: absolute;
+    bottom: 33px;
+    left: 154px;
+}
+
+
+/* hero section ends */
+
+
+/* training section starts */
+.training {
+    padding-bottom: 100px;
+}
+
+.c_cont_t {
+    /* min-height: 972px; */
+    padding: 91px;
+    border: 31px solid #F4F4F4;
+}
+
+.t_item_h {
+    /* width: 399px;
+    height: 600px; */
+}
+
+.t_card {
+    margin-top: 77%;
+    /* text-align: center; */
+    padding: 0 28px;
+}
+
+.t_card h5 {
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 48px;
+    /* identical to box height */
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.t_card p {
+    font-family: 'Droid Serif';
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+    margin: 8px 0 15px 0;
+
+}
+
+/* training section ends */
+
+/* joing starts */
+.j_m {
+    margin-right: 40px;
+}
+
+.join {
+    padding-bottom: 100px;
+}
+
+
+
+.j_img_box {
+    width: 753px;
+
+}
+
+.j_m {
+
+    margin-right: 40px !important;
+}
+
+.j_txt_box {
+    width: 551px;
+    background-color: #F1EAE4;
+    padding: 39px;
+}
+
+.item_mb {
+    margin-bottom: 45px;
+}
+
+.j_txt_box p {
+    font-family: 'Droid Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 180%;
+    /* or 34px */
+    color: #333333;
+
+}
+
+.j_txt_box p button {
+    margin-bottom: 40px;
+}
+
+/* joing starts ends */
+
+/* newsletter starts */
+.newspaper {
+    padding-bottom: 100px;
+}
+
+.n_news_parent {
+    position: relative;
+}
+
+.n_news_ch {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.news_txt {
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 74px;
+    line-height: 130%;
+    /* or 96px */
+
+    text-align: center;
+
+    color: #3A5E51;
+}
+
+.news_txt2 {
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 74px;
+    line-height: 130%;
+    /* or 96px */
+
+    text-align: center;
+
+    color: #FF9548;
+}
+
+.news_p {
+    margin-top: 12px;
+    font-size: 21px;
+    line-height: 150%;
+    /* or 32px */
+    color: #758080;
+    text-align: center;
+}
+
+.c_form {
+    margin-top: 55.6px;
+}
+
+.c_form_parent {
+    position: relative;
+}
+
+.c_input {
+    width: 542px;
+    height: 58.62px;
+    border-radius: 60px;
+}
+
+.c_form_child {
+    position: absolute;
+    left: 380px;
+    top: -35px;
+}
+
+.c_n_btn {
+    width: 168px;
+    height: 58px;
+}
+
+/* newsletter ends */
+
+/* yoga starts */
+.yoga {
+    /* min-height: 972px; */
+    padding-bottom: 100px;
+
+}
+
+.y_head {
+    margin-bottom: 97px;
+    position: relative;
+    text-align: center;
+}
+
+.y_h1 {
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 130%;
+    text-align: center;
+    color: #3A5E51;
+    margin-bottom: 27px !important;
+}
+
+.y_line {
+    position: absolute;
+    width: 81px;
+    top: 86%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.y_img {
+    margin-bottom: 37px;
+}
+
+.y_text_h6 {
+    margin-bottom: 14px !important;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 150%;
+    /* identical to box height, or 32px */
+
+
+    color: #2D2424;
+}
+
+.y_text_p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 187%;
+    /* or 32px */
+    letter-spacing: 0.02em;
+
+
+}
+
+/* yoga ends */
+
+/* footer top starts */
+.footer_top {
+    padding: 107px 0 150px 0;
+    background-color: #051512;
+}
+
+.f_m_logo {
+    margin-bottom: 21px;
+}
+
+.f_logo {
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 68px;
+    line-height: 82px;
+    /* identical to box height */
+    color: #12895E;
+}
+
+.f_logo span {
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 68px;
+    line-height: 82px;
+    /* identical to box height */
+    color: #FF9548;
+
+}
+
+.f_so_ico {
+    /* border: 1px solid red;     */
+}
+
+.f_so_ico i {
+    margin-right: 19px;
+    width: 26.23px;
+    height: 26.23px;
+    color: #0e0101;
+    filter: invert(100%);
+}
+
+.f_so_ico i:last-child {
+    margin-right: 0;
+}
+
+.f_text h6 {
+    font-family: 'Droid Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 180%;
+    /* or 43px */
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+.f_text p {
+    font-family: 'Droid Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 180%;
+    /* or 31px */
+    color: #CCCCCC;
+}
+
+.f_sec_3 ul li {
+    list-style-type: none;
+}
+
+.f_sec_3 ul li a {
+    font-family: 'Droid Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 180%;
+    /* or 31px */
+    color: #CCCCCC;
+    text-decoration: none;
+}
+
+/* footer top ends */
+
+/* footer starts */
+footer {
+    background-color: #051512;
+    font-family: 'Droid Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 180%;
+    /* identical to box height, or 31px */
+    color: #CCCCCC;
+    padding-bottom: 122px !important;
+}
+
+/* footer ends */

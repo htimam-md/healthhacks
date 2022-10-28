@@ -1,0 +1,37 @@
+color used:-
+
+#56548C logo
+#000000 text
+#21B573 button background
+#FD511A single text line
+
+
+fonts details:-
+
+font-family: 'Rubik', sans-serif;
+font-weight: 700;
+
+font-family: 'Poppins', sans-serif;
+font-weight: 400,500,700;
+
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+
+                    xxl-xl-lg       md        sm-col
+padding botom       100             80          60
+cs                  
+
+banner
+h1                     45           38          30
+
+feature
+h2                      24          24  
+p                       16     
+
+courses
+h1                      36          36          30
+h2                      24          24          20
+
+
+
+
